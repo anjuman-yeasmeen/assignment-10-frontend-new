@@ -1,6 +1,7 @@
 # MediCare Connect — Client (Next.js)
 
 Frontend for **MediCare Connect**, a hospital appointment & healthcare management platform connecting patients, doctors, and administrators in one secure system.
+livelink: https://assignment-10-frontend-new.vercel.app
 
 > Backend (Express + MongoDB) lives in a separate repository: **medicare-expressjs**.
 
